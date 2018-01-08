@@ -1,0 +1,6 @@
+Data
+node_modules
+.env
+.DS_Store
+.git
+.eslintrc.json
